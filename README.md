@@ -20,6 +20,6 @@ In this .env file enter the MongoDB Atlas Url:
 # Start the server
 ```
    node index.js or nodemon
-'''
+```
 Go to http://localhost:4000/ in any browser to see the application running.
 
