@@ -6,3 +6,6 @@ The Simple Book Management Online System is a user-friendly, Backend application
 # Run Locally
  ```
     git clone https://github.com/Aku5602/Bookopia
+Go to directory where cloned code
+```
+   npm install
