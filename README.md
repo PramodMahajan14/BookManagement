@@ -17,6 +17,9 @@ Go to directory where cloned code and run following command
   touch .env
 ```
 In this .env file enter the MongoDB Atlas Url:
+```
+  DB=mongodb atlas project url
+``` 
 # Start the server
 ```
    node index.js or nodemon
